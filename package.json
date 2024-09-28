@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@types/node": "22.5.4",
-    "netlify-cli": "17.35.0",
+    "netlify-cli": "17.36.2",
     "typescript": "5.5.4"
   },
   "name": "f-124620",
